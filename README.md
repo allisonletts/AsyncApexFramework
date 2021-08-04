@@ -1,6 +1,7 @@
 # AsyncApexFramework
 A deployable version of [Jitendra Zaa's](https://gist.github.com/JitendraZaa) Async Apex Framework.
-[Sandbox Deployment](https://githubsfdeploy-sandbox.herokuapp.com/app/githubdeploy/allisonletts/AsyncApexFramework-JitendraZaa?ref=main)
+
+[Deploy to a Sandbox](https://githubsfdeploy-sandbox.herokuapp.com/app/githubdeploy/allisonletts/AsyncApexFramework-JitendraZaa?ref=main)
 
 ## Source
 This repo is just a converted version of the code found [in this blog post](https://www.jitendrazaa.com/blog/salesforce/framework-to-fix-governor-limit-of-100-jobs-in-flex-queue/#more-6836) which is uses a [gist as the source](https://gist.github.com/JitendraZaa/305c5d409183dd061893deff0282982d#file-anonynousapex-cls).
