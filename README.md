@@ -8,6 +8,11 @@ This repo is just a converted version of the code found [in this blog post](http
 
 I'm setting this up as a repo so that I can find it again later by searching GH.
 
+## TODO
+Test classes
+Metadata files for everything
+
 ## Maintenance
 The only changes that are likely to be made here are for easier deployment, like a deploy button.
+
 
