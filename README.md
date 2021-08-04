@@ -1,11 +1,18 @@
-# AsyncApexFramework-JitendraZaa
-A repo version of [Jitendra Zaa's](https://gist.github.com/JitendraZaa) Async Apex Framework.
+# Salesforce DX Project: Next Steps
 
-## Source
-This repo is just a converted version of the code found [in this blog post](https://www.jitendrazaa.com/blog/salesforce/framework-to-fix-governor-limit-of-100-jobs-in-flex-queue/#more-6836) which is uses a [gist as the source](https://gist.github.com/JitendraZaa/305c5d409183dd061893deff0282982d#file-anonynousapex-cls).
+Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
-I'm setting this up as a repo so that I can find it again later by searching GH.
+## How Do You Plan to Deploy Your Changes?
 
-## Maintenance
-The only changes that are likely to be made here are for easier deployment, like a deploy button.
+Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
+## Configure Your Salesforce DX Project
+
+The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+
+## Read All About It
+
+- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
+- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
+- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
+- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
