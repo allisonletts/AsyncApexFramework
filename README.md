@@ -1,5 +1,5 @@
 # AsyncApexFramework
-A deployable version of [Jitendra Zaa's](https://gist.github.com/JitendraZaa) Async Apex Framework.
+A deployable version of [Jitendra Zaa's](https://github.com/JitendraZaa) Async Apex Framework.
 
 [Deploy to a Sandbox](https://githubsfdeploy-sandbox.herokuapp.com/app/githubdeploy/allisonletts/AsyncApexFramework?ref=main)
 
