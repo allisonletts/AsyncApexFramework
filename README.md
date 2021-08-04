@@ -1,3 +1,5 @@
+# STATUS: INCOMPLETE
+I know that this is not currently deployable, but that's my goal...
 # AsyncApexFramework
 A deployable version of [Jitendra Zaa's](https://github.com/JitendraZaa) Async Apex Framework.
 
